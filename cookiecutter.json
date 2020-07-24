@@ -1,0 +1,9 @@
+{
+	"author_name": "T8840",
+	"email": "T8840@qq.com",
+	"github_username": "T8840",
+	"project_name": "FlaskRestfulProject",
+	"app_name": "App",
+	"project_short_description": "flask restful project",
+	"use_pipenv": ["yes"]
+}
