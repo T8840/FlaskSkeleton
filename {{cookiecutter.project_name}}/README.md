@@ -61,4 +61,8 @@
 
 ## 初始化数据库与迁移
 1. 提前建立数据库
-2. 不推荐使用migrate 是用手写sql和手动管理数据库
+2. 不推荐使用migrate 是用手写sql和手动管理数据库  
+3. 使用flask_migrate管理数据库命令
+    - flask db init
+    - flask db migrate
+    - flask db upgrade
